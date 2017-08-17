@@ -117,7 +117,7 @@ $brand-info:                $teal !default;
 $brand-warning:             $orange !default;
 $brand-danger:              $red !default;
 $brand-inverse:             $gray-dark !default;
-
+$brand-muted:               $gray !default;
 
 // Options
 //
@@ -269,3 +269,6 @@ $grid-gutter-widths: (
 $font-weight-fine:   200;
 $font-weight-normal: 400;
 $font-weight-bold:   600;
+
+$zindex-fixed: 1000;
+$zindex-sticky: 1000;
